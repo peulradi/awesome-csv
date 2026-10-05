@@ -80,3 +80,4 @@ puts csv_string
 
 - CSV Preflight - [(Link)](https://softpeanut.github.io/csv-preflight/) - free browser-local CSV validator and normalizer. Checks headers, row widths, duplicate rows, delimiters, and common encoding failures with no signup or file upload.
 
+- Moapyo - [(Link)](https://moagraph.kr/) - free, browser-local CSV merger with a Korean interface. Combines UTF-8 CSV files and marks exact duplicate rows and key conflicts; no account or server file upload.
